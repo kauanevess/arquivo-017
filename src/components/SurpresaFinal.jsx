@@ -45,7 +45,7 @@ E acho que esse é o meu maior problema, eu nunca vou encontrar dez coisas para 
     id: "carta",
     titulo: "Para Todos os Garotos que Já Amei",
     subtitulo: "Uma carta para você",
-    texto: `Querida Tutu,
+    texto: `Querida Tuts,
 
 você pediu para escrever alguma coisa memorável, então aqui está.
 

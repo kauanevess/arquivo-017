@@ -149,7 +149,7 @@ function TelaAcesso() {
     },
     {
       numero: "002",
-      titulo: "UMA SEMANA EM CASA",
+      titulo: "5 DIAS EM CASA",
       imagem: "/cartas/carta-002.png",
       recuperada: carta002Recuperada,
     },
@@ -161,7 +161,7 @@ function TelaAcesso() {
     },
     {
       numero: "004",
-      titulo: "CINCO DIAS QUE FICARAM",
+      titulo: "DUAS SEMANAS QUE FICARAM",
       imagem: "/cartas/carta-004.png",
       recuperada: carta004Recuperada,
     },
@@ -177,6 +177,25 @@ function TelaAcesso() {
       imagem: "/cartas/carta-006.png",
       recuperada: carta006Recuperada,
     },
+    {
+      numero: "007",
+      titulo: "EU",
+      imagem: "/cartas/carta-007.png",
+      recuperada: true,
+    },
+    {
+      numero: "008",
+      titulo: "TE",
+      imagem: "/cartas/carta-008.png",
+      recuperada: true,
+    },
+    {
+      numero: "009",
+      titulo: "AMO",
+      imagem: "/cartas/carta-009.png",
+      recuperada: true,
+    },
+
   ];
 
   const totalMemorias = memorias.filter(
